@@ -1,7 +1,5 @@
 # Boolean Expression Interpreter Application
 Simple Boolean Expression Interpreter Application which uses a recursive descent parser\
-Author: N'Godjigui Junior Diarrassouba\
-_Written in Fall 2018_
 
 ## How to use it?
 
@@ -77,3 +75,6 @@ b = {T.F} (Boolean values True and False)
 φ : Literal → b
 ψ : Atom → b
 ```
+
+Author: N'Godjigui Junior Diarrassouba\
+_Written in Fall 2018_
