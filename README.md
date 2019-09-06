@@ -8,6 +8,7 @@ Just run main.py
   - open <filename>
   - exit or just the `enter` key
 * The expression in eval can only be made of:
+  - ` ` (Whitespace)
   - T (True)
   - F (False)
   - v (OR)
