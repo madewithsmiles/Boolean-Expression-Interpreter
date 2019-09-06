@@ -9,15 +9,15 @@ _Just run_ ___`main.py`___
   - `eval <expression>`\
     The expression in eval can only be made of:
     - ` ` (Whitespace)
-    - T (True)
-    - F (False)
-    - v (OR)
-    - ^ (AND)
-    - ~ (NOT)
-    - -> (IMPLY)
-    - ( (Left parenthesis)
-    - ) (Right parenthesis)
-    - . (End of statement)
+    - `T` (True)
+    - `F` (False)
+    - `v` (OR)
+    - `^` (AND)
+    - `~` (NOT)
+    - `->` (IMPLY)
+    - `(` (Left parenthesis)
+    - `)` (Right parenthesis)
+    - `.` (End of statement)
   - `open <filename>`\
      - The filename needs to have an extension specified (or can be empty if there is no extension)
      - The filename can contain spaces. In such case, ___no___ ___need___ to add strings, just type it
