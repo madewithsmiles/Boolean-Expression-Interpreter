@@ -20,7 +20,7 @@ _Just run_ ___`main.py`___
     - . (End of statement)
   - `open <filename>`\
      - The filename needs to have an extension specified (or can be empty if there is no extension)
-     - The filename can contain space. In such case, ___no___ ___need___ to add strings, just type it
+     - The filename can contain spaces. In such case, ___no___ ___need___ to add strings, just type it
   - `exit` or just the `enter` key
    
 ## Specifications
