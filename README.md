@@ -2,11 +2,13 @@
 Simple Boolean Expression Interpreter Application which uses a recursive descent parser
 
 ## How to use it?
-Just run main.py
+
+_Just run_ ___`main.py`___
+
 * Commands are:
-  - eval <expression>
-  - open <filename>
-  - exit or just the `enter` key
+  - `eval <expression>`
+  - `open <filename>`
+  - `exit` or just the `enter` key
 * The expression in eval can only be made of:
   - ` ` (Whitespace)
   - T (True)
