@@ -1,5 +1,6 @@
 # Boolean Expression Interpreter Application
 Simple Boolean Expression Interpreter Application which uses a recursive descent parser
+N'Godjigui Junior Diarrassouba - Fall 2018
 
 ## How to use it?
 
