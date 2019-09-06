@@ -6,21 +6,23 @@ Simple Boolean Expression Interpreter Application which uses a recursive descent
 _Just run_ ___`main.py`___
 
 * Commands are:
-  - `eval <expression>`
-  - `open <filename>`
+  - `eval <expression>`\
+    The expression in eval can only be made of:
+    - ` ` (Whitespace)
+    - T (True)
+    - F (False)
+    - v (OR)
+    - ^ (AND)
+    - ~ (NOT)
+    - -> (IMPLY)
+    - ( (Left parenthesis)
+    - ) (Right parenthesis)
+    - . (End of statement)
+  - `open <filename>`\
+     - The filename needs to have an extension specified (or can be empty if there is no extension)
+     - The filename can contain space. In such case, ___no___ ___need___ to add strings, just type it
   - `exit` or just the `enter` key
-* The expression in eval can only be made of:
-  - ` ` (Whitespace)
-  - T (True)
-  - F (False)
-  - v (OR)
-  - ^ (AND)
-  - ~ (NOT)
-  - -> (IMPLY)
-  - ( (Left parenthesis)
-  - ) (Right parenthesis)
-  - . (End of statement)
- 
+   
 ## Specifications
 
 ### Syntax and Selection Set:
